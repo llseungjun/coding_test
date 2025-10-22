@@ -1,0 +1,18 @@
+random_seed: 42
+data:
+  csv_path: null
+  target: target
+  n_samples: 1200
+  n_features: 10
+  noise_std: 3.0
+  test_size: 0.2
+  val_size: 0.2
+training:
+  normalize: true
+  add_bias: true
+  solver: gd      # gd | ne
+  lr: 0.05
+  epochs: 800
+  l2: 0.0
+paths:
+  model_path: artifacts/scratch/model.pkl

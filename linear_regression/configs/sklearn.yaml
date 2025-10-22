@@ -1,0 +1,11 @@
+random_seed: 42
+data:
+  csv_path: null
+  target: target
+  test_size: 0.2
+  val_size: 0.2
+training:
+  normalize: true
+  fit_intercept: true
+paths:
+  model_path: artifacts/sklearn/model.pkl
