@@ -79,7 +79,7 @@ linreg-project/
 
 ---
 
-# 선형회귀(Linear Regression) 코드 스니펫 모음 (KR)
+# 선형회귀(Linear Regression) 코드 스니펫 모음
 > 시험 중 빠르게 참고하는 **필살 치트시트(README)** — 핵심만 간단·짧게!  
 > 마지막 업데이트: 2025-10-22 10:22
 
